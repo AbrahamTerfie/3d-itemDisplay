@@ -1,7 +1,7 @@
 import React from "react";
-import adidasShoe from "./adidas.png";
-import './style.css'
-import './animations'
+// import adidasShoe from "./adidas.png";
+// import './style.css'
+// import './animations'
 export default function Main() {
   return (
     <div className="container">
