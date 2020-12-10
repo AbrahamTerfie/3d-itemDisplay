@@ -1,6 +1,3 @@
-# 3d-itemDisplay
-3D animated item display card 
-
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
