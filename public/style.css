@@ -77,14 +77,33 @@ body{
     cursor: pointer;
     font-weight: bold;
     color: #585858;
+
+
+    /* color: #222222; */
+
+border-radius: 41px;
+background: linear-gradient(145deg, #e6e6e6, #ffffff);
+box-shadow:  25px 25px 50px #ababab, 
+             -25px -25px 50px #ffffff;
   }
   button.active {
     background: #585858;
     color: white;
+
+
+    /* color: #222222; */
+
+border-radius: 41px;
+background: linear-gradient(145deg, #585858, #ffffff);
+box-shadow:  25px 25px 50px #585858, 
+             -25px -25px 50px #ffffff;
   }
   .purchase {
     margin-top: 5rem;
     transition: all 0.75s ease-out;
+
+
+
   }
   .purchase button {
     width: 100%;
@@ -95,4 +114,10 @@ body{
     cursor: pointer;
     border-radius: 30px;
     font-weight: bolder;
+color: #222222;
+
+border-radius: 41px;
+background: linear-gradient(145deg, #e6e6e6, #ffffff);
+box-shadow:  25px 25px 50px #ababab, 
+             -25px -25px 50px #ffffff;
   }
